@@ -5,7 +5,7 @@ chatterbot-corpus==1.1.4
 future==0.17.1
 idna==2.7
 mathparse==0.1.2
-nltk==3.3
+nltk==3.4.5
 oauthlib==2.1.0
 pymongo==3.7.2
 python-dateutil==2.6.1
